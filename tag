@@ -25,6 +25,7 @@ Genre list:
 48. Ethnic
 52. Electronic
 80. Folk
+86. Latin
 "
 
 echo "Genre(#):"

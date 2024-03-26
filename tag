@@ -19,6 +19,7 @@ Genre list:
 08. Jazz
 13. Pop
 14. R&B
+16. Reggae
 17. Rock
 32. Classical
 42. Soul

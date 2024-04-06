@@ -14,6 +14,7 @@ read year
 echo "
 
 Genre list:
+02. Country
 04. Disco
 07. Hip-hop
 08. Jazz

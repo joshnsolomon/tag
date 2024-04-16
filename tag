@@ -22,6 +22,7 @@ Genre list:
 14. R&B
 16. Reggae
 17. Rock
+24. Soundtrack
 32. Classical
 42. Soul
 48. Ethnic

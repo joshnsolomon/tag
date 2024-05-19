@@ -18,6 +18,7 @@ if [ -e "$song" ]; then
     04. Disco
     07. Hip-hop
     08. Jazz
+    09. Metal
     13. Pop
     14. R&B
     16. Reggae
